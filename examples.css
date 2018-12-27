@@ -35,7 +35,7 @@ height: 100%;
 }
 .content__line--orange{
   width: 4em;
-border: 1px solid orange;
+border: 1px solid #FF8C00;
 position: absolute;
 bottom: 40vh;
 }
